@@ -34,7 +34,10 @@ def quick_sort(elements, start, end):
         quick_sort(elements, start, pi-1) # left partition
         quick_sort(elements, pi+1, end) # right partition
 
-elements = [11,9,29,7,2,15,28]
-quick_sort(elements, 0 , len(elements)-1)
-print(elements)
+if __name__ == '__main__' :
+    elements = [11,9,29,7,2,15,28]
+
+    quick_sort(elements, 0, len(elements)-1)
+
+    print(elements)
 

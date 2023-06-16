@@ -1,5 +1,5 @@
-# Best - O(n)
-# Avg/Worst - O(n2)
+# Time complexity Best - O(n)
+# Time complexity Avg/Worst - O(n2)
 
 def insertion_sort(elements):
     for i in range(1, len(elements)):

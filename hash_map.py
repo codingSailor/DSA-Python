@@ -1,3 +1,5 @@
+# Time complexity O(1) - Search/Access/Insert/Delete
+
 class HashTable:
     def __init__(self):
         self.MAX = 10

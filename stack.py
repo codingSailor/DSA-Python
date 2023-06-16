@@ -1,6 +1,7 @@
+# Time complexity O(n) - Search/Access
+# Time complexity O(1) - Insert/Delete
+
 #LIFO
-
-
 # s = []
 
 # s.append('1')

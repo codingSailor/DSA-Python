@@ -1,4 +1,4 @@
-# O(nlogn)
+# Time complexity : O(nlogn)
 
 
 def merge_sort(arr):

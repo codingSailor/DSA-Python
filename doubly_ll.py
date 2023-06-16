@@ -1,3 +1,7 @@
+# Time complexity O(n) - Search/Access
+# Time complexity O(1) - Insert/Delete
+
+
 class Node:
     def __init__(self,data=None, next=None, prev=None):
         self.data = data

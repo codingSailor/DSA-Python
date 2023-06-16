@@ -1,5 +1,5 @@
 
-# O(logn)
+# Time complexity O(log(n)) - Search/Access/Insert/Delete
 
 class BinarySearchTreeNode:
     def __init__(self, data) -> None:

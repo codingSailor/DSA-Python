@@ -1,3 +1,5 @@
+# Time complexity O(log(n)) - Search/Access/Insert/Delete
+
 import time
 
 def time_it(func):
